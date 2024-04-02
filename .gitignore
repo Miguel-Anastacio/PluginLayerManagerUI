@@ -72,3 +72,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+LayerManagerUI/Binaries/*
+LayerManagerUI/Intermediate/*
+
+
+Plugins/*/Binaries/*
+
